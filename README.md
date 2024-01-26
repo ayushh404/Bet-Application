@@ -1,4 +1,5 @@
 A Bet Application with no money involved, to place and review/resolve bets on certain topics.
+
 Tech stack used: 
 1) React.js
 2) MongoDB
